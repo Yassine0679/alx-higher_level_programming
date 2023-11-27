@@ -1,2 +1,2 @@
 this is a readme file
-python project
+this is a python project
