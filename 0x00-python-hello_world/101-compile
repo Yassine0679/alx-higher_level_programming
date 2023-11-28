@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+import py_compile
+def compile_python(script_path);
+	try:
+		py_compile.compile(script_path)
+	except py_compile.PyCompileError as e:
+script_to_compile = '$PYFILE'
+compile_python_script(script_to_compile)
