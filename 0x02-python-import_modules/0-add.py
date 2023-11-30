@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-de add(a, b):
+def add(a, b):
     a = 1
     b = 2
     result = a + b
